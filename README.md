@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hi, I'm Morgan 
+![Morgan Stanley Banner](https://github.com/mestanley813/mestanley813/assets/73846725/55863a9f-0215-4a80-b2f2-87a04931c1f3)
 
-<!--
-**mestanley813/mestanley813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate data analyst with a knack for transforming data into actionable insights. Whether it's crunching numbers, visualizing trends, or unearthing valuable insights, I'm here to make data-driven decisions a reality.
 
-Here are some ideas to get you started:
+### 📁 Projects
+Here is where I showcase my [projects](https://github.com/mestanley813/Portfolio/blob/main/README.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools
+  - Languages: Python, SQL, R
+  - Databases: Google BigQuery, MongoDB, Microsoft SQL Server, MySQL
+  - Data Visualization: Tableau
+    
+### 🌐 Connect with Me
+  - [Linkedin](https://www.linkedin.com/in/morgan-stanley-67b09417a/)
